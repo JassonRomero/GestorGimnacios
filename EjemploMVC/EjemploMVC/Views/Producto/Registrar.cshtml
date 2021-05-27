@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Registrar";
+}
+
+<h1>Registrar</h1>
+
+<form asp-action="Registrar">
+    <legend>Registrar producto</legend>
+    <div>
+        <label for="nombre">Nombre del producto</label>
+        <input type="text" id="nombre" name="nombre" required />
+    </div>
+    <div>
+        <input type="submit" id="registrar" name="registrar" value="Registrar" />
+    </div>
+</form>

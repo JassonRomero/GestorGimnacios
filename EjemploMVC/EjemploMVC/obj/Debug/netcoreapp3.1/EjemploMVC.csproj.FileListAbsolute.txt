@@ -1,0 +1,641 @@
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.exe
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.deps.json
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.runtimeconfig.json
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.runtimeconfig.dev.json
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.pdb
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.Views.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.Views.pdb
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csprojAssemblyReference.cache
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.AssemblyInfoInputs.cache
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.AssemblyInfo.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorAssemblyInfo.cache
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorAssemblyInfo.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.TagHelpers.input.cache
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.TagHelpers.output.cache
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorCoreGenerate.cache
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorTargetAssemblyInfo.cache
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorTargetAssemblyInfo.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.Views.pdb
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\staticwebassets\EjemploMVC.StaticWebAssets.Manifest.cache
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\staticwebassets\EjemploMVC.StaticWebAssets.xml
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.pdb
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.genruntimeconfig.cache
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csproj.CopyComplete
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Listar.cshtml.g.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Registrar.cshtml.g.cs
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csproj.CoreCompileInputs.cache
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\XPC\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\RegistrarAjax.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.exe
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.deps.json
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.runtimeconfig.json
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.runtimeconfig.dev.json
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.pdb
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.Views.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.Views.pdb
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csprojAssemblyReference.cache
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.AssemblyInfoInputs.cache
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.AssemblyInfo.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csproj.CoreCompileInputs.cache
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorAssemblyInfo.cache
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorAssemblyInfo.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.TagHelpers.input.cache
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.TagHelpers.output.cache
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorCoreGenerate.cache
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Listar.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Registrar.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\RegistrarAjax.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.Views.pdb
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csproj.CopyComplete
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\staticwebassets\EjemploMVC.StaticWebAssets.Manifest.cache
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\staticwebassets\EjemploMVC.StaticWebAssets.xml
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.dll
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.pdb
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.genruntimeconfig.cache
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\Index.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\RegistrarNegocio.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\GestionarEstablecimiento.cshtml.g.cs
+C:\Users\Romero\source\repos\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\Login.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.exe
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.deps.json
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.runtimeconfig.json
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.runtimeconfig.dev.json
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.pdb
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.Views.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.Views.pdb
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csprojAssemblyReference.cache
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.AssemblyInfoInputs.cache
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.AssemblyInfo.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csproj.CoreCompileInputs.cache
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorAssemblyInfo.cache
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorAssemblyInfo.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.TagHelpers.input.cache
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.TagHelpers.output.cache
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorCoreGenerate.cache
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\GestionarEstablecimiento.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\Index.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\Login.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\ModuloAdmin.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\RegistrarNegocio.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Listar.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Registrar.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\RegistrarAjax.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorTargetAssemblyInfo.cache
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorTargetAssemblyInfo.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.Views.pdb
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csproj.CopyComplete
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\staticwebassets\EjemploMVC.StaticWebAssets.Manifest.cache
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\staticwebassets\EjemploMVC.StaticWebAssets.xml
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.dll
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.pdb
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.genruntimeconfig.cache
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\ClaseOnline.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\VerResumen.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.exe
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.deps.json
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.runtimeconfig.json
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.runtimeconfig.dev.json
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.pdb
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.Views.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.Views.pdb
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csprojAssemblyReference.cache
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.AssemblyInfoInputs.cache
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.AssemblyInfo.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorAssemblyInfo.cache
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorAssemblyInfo.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.TagHelpers.input.cache
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.TagHelpers.output.cache
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorCoreGenerate.cache
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\ClaseOnline.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\GestionarEstablecimiento.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\Index.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\Login.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\ModuloAdmin.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\RegistrarNegocio.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\VerResumen.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Listar.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Registrar.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\RegistrarAjax.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorTargetAssemblyInfo.cache
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorTargetAssemblyInfo.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.Views.pdb
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csproj.CopyComplete
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\staticwebassets\EjemploMVC.StaticWebAssets.Manifest.cache
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\staticwebassets\EjemploMVC.StaticWebAssets.xml
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.pdb
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.genruntimeconfig.cache
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csproj.CoreCompileInputs.cache
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\ClienteIndex.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\NegocioIndex.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\LoginCliente.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\ModuloCliente.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\VerSesiones.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\PantallaReservas.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\ListarSesiones.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\InfoNegocioGym.cshtml.g.cs
+D:\Universidad\Lenguajes\Proyecto3Negocio\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\VerClasesOnline.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.exe
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.deps.json
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.runtimeconfig.json
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.runtimeconfig.dev.json
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.pdb
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.Views.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\EjemploMVC.Views.pdb
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csprojAssemblyReference.cache
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.AssemblyInfoInputs.cache
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.AssemblyInfo.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csproj.CoreCompileInputs.cache
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorAssemblyInfo.cache
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorAssemblyInfo.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\staticwebassets\EjemploMVC.StaticWebAssets.Manifest.cache
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\staticwebassets\EjemploMVC.StaticWebAssets.xml
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\EjemploMVC.styles.css
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.TagHelpers.input.cache
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.TagHelpers.output.cache
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorCoreGenerate.cache
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\ClaseOnline.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\ClienteIndex.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\GestionarEstablecimiento.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\Index.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\InfoNegocioGym.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\ListarSesiones.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\Login.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\LoginCliente.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\ModuloAdmin.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\ModuloCliente.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\NegocioIndex.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\PantallaReservas.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\RegistrarNegocio.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\VerClasesOnline.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\VerResumen.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Principal\VerSesiones.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Listar.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Registrar.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Producto\RegistrarAjax.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorTargetAssemblyInfo.cache
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.RazorTargetAssemblyInfo.cs
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.Views.pdb
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.csproj.CopyComplete
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.dll
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.pdb
+C:\Users\XPC\Downloads\Proyecto tres\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp3.1\EjemploMVC.genruntimeconfig.cache

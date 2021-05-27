@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>Ejemplo utilizando Bootstrap</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="Primer sitio con html 5" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" type="image/x-icon" href="~/img/icono.ico" />
+
+    <!-----------------Registrar Gym-------------------->
+    <link rel="stylesheet" type="text/css" href="~/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="~/fonts/iconic/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" type="text/css" href="~/vendor/animate/animate.css">
+    <link rel="stylesheet" type="text/css" href="~/vendor/css-hamburgers/hamburgers.min.css">
+    <link rel="stylesheet" type="text/css" href="~/vendor/animsition/css/animsition.min.css">
+    <link rel="stylesheet" type="text/css" href="~/vendor/select2/select2.min.css">
+    <link rel="stylesheet" type="text/css" href="~/vendor/daterangepicker/daterangepicker.css">
+    <link rel="stylesheet" type="text/css" href="~/vendor/noui/nouislider.min.css">
+    <link rel="stylesheet" type="text/css" href="~/vendor/util.css">
+    <link rel="stylesheet" type="text/css" href="~/vendor/main.css">
+    <!------------------------------------>
+
+
+    <link rel="stylesheet" type="text/css" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/fonts/icomoon/style.css">
+    <link rel="stylesheet" href="~/css/jquery-ui.css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="~/css/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" href="~/css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="~/fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="~/css/aos.css">
+    <link href="css/jquery.mb.YTPlayer.min.css" media="all" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" href="~/css/style.css">
+
+    <script type="text/javascript" src="~/js/jquery-3.2.1.js"></script>
+    <script type="text/javascript" src="~/js/jscriptProyecto3.js"></script>
+
+
+    <script>
+        function registarProductoAjax(nombreProducto) {
+            var parametros = { "nombre": nombreProducto };
+            $.ajax(
+                {
+                    data: parametros,
+                    url: '/Producto/RegistrarAjax',
+                    type: 'post',
+                    beforeSend: function () {
+                        $("#resultado").html("Procesando, espere por favor ...");
+                    },
+                    success: function (response) {
+                        $("#resultado").html(response);
+                    }
+                }
+            );
+        } // registarProductoAjax
+    </script>
+
+    <style type="text/css">
+        .login-form {
+            width: 340px;
+            margin: 50px auto;
+        }
+
+            .login-form form {
+                margin-bottom: 15px;
+                background: #f7f7f7;
+                box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+                padding: 30px;
+            }
+
+            .login-form h2 {
+                margin: 0 0 15px;
+            }
+    </style>
+
+</head>
+    @RenderBody()
+</html>

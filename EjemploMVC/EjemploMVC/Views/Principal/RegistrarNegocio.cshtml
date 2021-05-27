@@ -1,0 +1,111 @@
+﻿@{
+    ViewData["Title"] = "RegistrarNegocio";
+}
+
+    <body style="background-color: black;" class="text-center">
+
+        <header class="site-navbar py-4 js-sticky-header site-navbar-target" role="banner">
+
+            <div class="container-fluid">
+                <div class="d-flex align-items-center">
+                    <div class="site-logo"><a href="">MasterGym<span>.</span></a></div>
+                    <div class="ml-auto">
+                        <nav class="site-navigation position-relative text-right" role="navigation">
+                            <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+                               
+                                <li><a asp-controller="Principal" asp-action="Index"> Inicio </a></li>
+                                <li><a asp-controller="Principal" asp-action="Login">Login</a></li>
+
+                            </ul>
+                        </nav>
+                    </div>
+
+                </div>
+            </div>
+
+        </header>
+
+        <div class="container">
+            <div class="wrap-contact100">
+                <form class="contact100-form validate-form" asp-action="RegistrarNegocio" enctype="multipart/form-data">
+                    <span class="contact100-form-title">Registrar Gimnasio</span>
+                    <div class="wrap-input100 validate-input bg1" data-validate="Por favor ingrese un nombre">
+                        <span class="label-input100">Nombre del gimnasio *</span>
+                        <input class="input100" type="text" id="nombre" name="nombre" required placeholder="Ingrese el nombre" />
+                    </div>
+                    <div class="wrap-input100 validate-input bg1" data-validate="Por favor ingrese una contraseña">
+                        <span class="label-input100">Contraseña *</span>
+                        <input class="input100" type="password" id="contrasena" name="contrasena" required placeholder="Ingrese la contraseña" />
+                    </div>
+                    <div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate="Por favor ingrese una ubicación">
+                        <span class="label-input100">Ubicación *</span>
+                        <textarea class="input100" type="text" id="ubicacion" name="ubicacion" required placeholder="Ingrese la ubicación"></textarea>
+                    </div>
+                    <div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate="Por favor ingrese una descripción">
+                        <span class="label-input100">Descripción *</span>
+                        <textarea class="input100" type="text" id="descripcion" name="descripcion" required placeholder="Ingrese la descripción"></textarea>
+                    </div>
+                    <div class="wrap-input100 validate-input bg1" data-validate="Por favor ingrese un teléfono">
+                        <span class="label-input100">Teléfono *</span>
+                        <input class="input100" type="text" id="telefono" name="telefono" required placeholder="Ingrese el teléfono" />
+                    </div>
+                    <div class="wrap-input100 validate-input bg1" data-validate="Por favor ingrese un correo">
+                        <span class="label-input100">Correo *</span>
+                        <input class="input100" type="email" id="correo" name="correo" required placeholder="Ingrese el correo" />
+                    </div>
+                    <div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate="Por favor ingrese el horario">
+                        <span class="label-input100">Horario apertura*</span>
+                        <input class="input100" type="time" id="horarioA" name="horarioA" required />
+                    </div>
+                    <div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate="Por favor ingrese el horario">
+                        <span class="label-input100">Horario cierre*</span>
+                        <input class="input100" type="time" id="horarioC" name="horarioC" required />
+                    </div>
+                    <div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate="Por favor ingrese la capacidad maxima">
+                        <span class="label-input100">Capacidad Maxima *</span>
+                        <input class="input100" type="number" id="capacidadMaxima" name="capacidad" required placeholder="Ingrese la capacidad maxima" />
+                    </div>
+                    <div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate="Por favor ingrese el porcenaje permitido">
+                        <span class="label-input100">Porcentaje permitido *</span>
+                        <input class="input100" type="number" id="porcentajePermitido" name="porcentaje" required placeholder="Ingrese el porcentaje permitido" />
+                    </div>
+                    <div class="wrap-input100 validate-input bg1" data-validate="Por favor ingrese el logo">
+                        <span class="label-input100">Logo comercial *</span>
+                        <input class="input100" type="file" id="logo" name="logo" required />
+
+                    </div>
+                    <div class="wrap-input100 validate-input bg1" data-validate="Por favor ingrese la imagen">
+                        <span class="label-input100">Imagen Uno *</span>
+                        <input class="input100" type="file" id="imagen1" name="imagen1" required />
+                    </div>
+
+                    <div class="wrap-input100 validate-input bg1 rs1-wrap-input100">
+                        <span class="label-input100">Imagen Dos Opcional</span>
+                        <input class="input100" type="file" id="imagen2" name="imagen2" />
+                    </div>
+                    <div class="wrap-input100 validate-input bg1 rs1-wrap-input100">
+                        <span class="label-input100">Imagen Tres Opcional</span>
+                        <input class="input100" type="file" id="imagen3" name="imagen3" />
+                    </div>
+                    <div class="wrap-input100 validate-input bg1 rs1-wrap-input100">
+                        <span class="label-input100">Imagen Cuatro Opcional</span>
+                        <input class="input100" type="file" id="imagen4" name="imagen4" />
+                    </div>
+                    <div class="wrap-input100 validate-input bg1 rs1-wrap-input100">
+                        <span class="label-input100">Imagen Cinco Opcional</span>
+                        <input class="input100" type="file" id="imagen5" name="imagen5" />
+                    </div>
+
+
+
+                    <div class="container-contact100-form-btn rs1-wrap-input100">
+                        <input class="contact100-form-btn" type="submit" id="RegistrarNegocio" name="RegistrarNegocio" value="Registrar" />
+
+                        <span id="resultadoREGISTRAR"></span>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+
+    </body>

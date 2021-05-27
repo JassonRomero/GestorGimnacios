@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "VerClasesOnline";
+}
+
+
+@foreach (VerIformeGYMModel temp in ViewBag.listarClasesOnile)
+{
+    string @nombre = "Gimnasio " + @temp.nombreGym;
+    string @descripcion = "Descripcion: " + @temp.descripcion;
+    string @ubicacion = "Ubicacion: " + @temp.ubicacion;
+    <span class="contact100-form-title">  @nombre </span>
+    <span class="contact100-form-title"> @descripcion </span>
+    <span class="contact100-form-title"> @ubicacion </span>
+
+    string @valor = "/assets/img/" + temp.nombreGym + "/logo.jpg";
+    <div class="container-contact100-form-btn rs1-wrap-input100">        
+        <img class="img-fluid" src=@valor> </img>
+    </div>
+
+    break;
+
+}
+
+
+
+<div class="container-contact100-form-btn rs1-wrap-input100">
+    <span class="contact100-form-title">Lista de clases online </span>
+</div>
+@model VerIformeGYMModel
+
+<table class="table table-striped">
+    <tr>
+        <th>Nombre clase</th>
+        <th>Fecha </th>
+        <th>Hora </th>
+
+    </tr>
+    @foreach (VerIformeGYMModel temp in ViewBag.listarClasesOnile)
+    {
+        <tr>
+            <td>@temp.nombreClase,</td>
+            <td>@temp.fecha</td>
+            <td>@temp.hora</td>
+
+        </tr>
+
+    }
+
+
+
+
+
+</table>

@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Listar";
+}
+
+<h1>Listar</h1>
+
+@model ProductoModel
+
+<table class="table table-striped">
+    <tr>
+        <th>ID</th>
+        <th>Nombre</th>
+    </tr>
+    @foreach (ProductoModel temp in ViewBag.Productos)
+    {
+        <tr>
+            <td>@temp.Id</td>
+            <td>@temp.Nombre</td>
+        </tr>
+
+    }
+
+
+</table>
+

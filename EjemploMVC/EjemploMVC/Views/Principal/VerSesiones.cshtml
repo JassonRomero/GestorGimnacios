@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "VerSesiones";
+}
+
+<h1>Lista de sesiones</h1>
+
+@model SesionesModel
+
+<table class="table table-striped">
+    <tr>
+        <th>Nombre</th>
+        <th>Fecha reserva</th>
+        <th>Horario</th>
+        <th>Cupos disponibles</th>
+    </tr>
+    @foreach (SesionesModel temp in ViewBag.Sesiones)
+    {
+        <tr>
+            <td>@temp.gimnasioReserva</td>
+            <td>@temp.fechaReserva</td>
+            <td>@temp.horario</td>
+            <td>@temp.cupos</td>
+
+
+            <param id="@temp.codSesion" name="@temp.codSesion" value="@temp.codSesion">
+            <td>
+                <div class="container-contact100-form-btn rs1-wrap-input100">
+                    <input class="contact100-form-btn " type="button" href="javascript:;" onclick="realizarReservacion( $('#@temp.codSesion').val()); return false;" id="reservarSesion" name="reservarSesion" value="Reservar" />
+
+
+                </div>
+            </td>
+
+        </tr>
+
+    }
+
+    <span id="resultadoReservarSesion"></span>
+
+
+
+
+
+</table>
+

@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "ListarSesiones";
+}
+<h1>Lista de sesiones</h1>
+@model ListarSesionesModel
+
+<table class="table table-striped">
+    <tr>
+        <th>Nombre gimnasio</th>
+        <th>Fecha reserva</th>
+        <th>Horario</th>
+    </tr>
+    @foreach (ListarSesionesModel temp in ViewBag.ListarSesionesCliente)
+    {
+        <tr>
+            <td>@temp.gimnasioReserva</td>
+            <td>@temp.fechaReserva</td>
+            <td>@temp.horario</td>
+
+
+        </tr>
+
+    }
+
+
+
+
+
+</table>
