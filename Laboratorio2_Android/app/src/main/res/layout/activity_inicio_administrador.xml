@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InicioAdministrador">
+
+    <TextView
+        android:id="@+id/textView11"
+        style="@style/Widget.AppCompat.TextView"
+        android:layout_width="111dp"
+        android:layout_height="27dp"
+        android:text="Sesiones"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:fontFamily="@font/aldrich"
+        app:layout_constraintEnd_toEndOf="@+id/ic_Seciones"
+        app:layout_constraintHorizontal_bias="0.533"
+        app:layout_constraintStart_toStartOf="@+id/ic_Seciones"
+        app:layout_constraintTop_toBottomOf="@+id/ic_Seciones" />
+
+    <TextView
+        android:id="@+id/textView6"
+        style="@style/Widget.AppCompat.TextView"
+        android:layout_width="86dp"
+        android:layout_height="26dp"
+        android:layout_marginTop="4dp"
+        android:text="Clases"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:fontFamily="@font/aldrich"
+        app:layout_constraintEnd_toEndOf="@+id/ic_clases"
+        app:layout_constraintHorizontal_bias="0.588"
+        app:layout_constraintStart_toStartOf="@+id/ic_clases"
+        app:layout_constraintTop_toBottomOf="@+id/ic_clases" />
+
+    <TextView
+        android:id="@+id/textView10"
+        style="@style/Widget.AppCompat.TextView"
+        android:layout_width="138dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="4dp"
+        android:text="Actualizar"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:fontFamily="@font/aldrich"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/ic_actualizarCentro"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/ic_actualizarCentro"
+        app:layout_constraintTop_toBottomOf="@+id/ic_actualizarCentro"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/Widget.AppCompat.TextView"
+        android:layout_width="118dp"
+        android:layout_height="31dp"
+        android:text="Resumen"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:fontFamily="@font/aldrich"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/ic_resumen"
+        app:layout_constraintStart_toStartOf="@+id/ic_resumen"
+        app:layout_constraintTop_toBottomOf="@+id/ic_resumen"
+        app:layout_constraintVertical_bias="0.016" />
+
+    <TextView
+        android:id="@+id/tv_nombreCentroAdmi"
+        style="@style/Widget.AppCompat.TextView"
+        android:layout_width="145dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="44dp"
+        android:text="@string/centro"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/background_dark"
+        android:textSize="50sp"
+        app:fontFamily="@font/arizonia"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Descripción"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.098"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_nombreCentroAdmi" />
+
+    <TextView
+        android:id="@+id/tv_descripcionAdmi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="@+id/textView4"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView4"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="Lugar"
+        app:layout_constraintEnd_toEndOf="@+id/tv_descripcionAdmi"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_descripcionAdmi"
+        app:layout_constraintTop_toBottomOf="@+id/tv_descripcionAdmi" />
+
+    <TextView
+        android:id="@+id/tv_lugar"
+        android:layout_width="310dp"
+        android:layout_height="17dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="12dp"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.012"
+        app:layout_constraintStart_toEndOf="@+id/textView7"
+        app:layout_constraintTop_toBottomOf="@+id/tv_descripcionAdmi" />
+
+    <TextView
+        android:id="@+id/tv_capacidadAmi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Capacidad:"
+        app:layout_constraintEnd_toEndOf="@+id/textView7"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView7"
+        app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+    <ImageView
+        android:id="@+id/ic_actualizarCentro"
+        android:layout_width="139dp"
+        android:layout_height="74dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toStartOf="@+id/ic_resumen"
+        app:layout_constraintHorizontal_bias="0.25"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/ic_resumen"
+        app:srcCompat="@mipmap/ic_actualizar" />
+
+    <ImageView
+        android:id="@+id/ic_Seciones"
+        android:layout_width="138dp"
+        android:layout_height="89dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="@+id/ic_actualizarCentro"
+        app:layout_constraintStart_toStartOf="@+id/ic_actualizarCentro"
+        app:layout_constraintTop_toBottomOf="@+id/textView10"
+        app:srcCompat="@mipmap/ic_calendar" />
+
+    <TextView
+        android:id="@+id/tv_horarioA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="@+id/tv_capacidadAmi"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_capacidadAmi"
+        app:layout_constraintTop_toBottomOf="@+id/tv_capacidadAmi" />
+
+    <TextView
+        android:id="@+id/tv_horarioB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/tv_horarioA"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_horarioA"
+        app:layout_constraintTop_toBottomOf="@+id/tv_horarioA"
+        app:layout_constraintVertical_bias="0.031" />
+
+    <ImageView
+        android:id="@+id/ic_resumen"
+        android:layout_width="156dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_horarioB"
+        app:srcCompat="@mipmap/ic_pdf" />
+
+    <ImageView
+        android:id="@+id/ic_clases"
+        android:layout_width="120dp"
+        android:layout_height="87dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="@+id/ic_resumen"
+        app:layout_constraintHorizontal_bias="0.527"
+        app:layout_constraintStart_toStartOf="@+id/ic_resumen"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:srcCompat="@mipmap/ic_meditacion" />
+</androidx.constraintlayout.widget.ConstraintLayout>

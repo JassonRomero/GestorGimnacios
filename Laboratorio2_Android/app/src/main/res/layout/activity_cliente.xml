@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ClienteActivity">
+
+    <ImageView
+        android:id="@+id/ic_historialCliente"
+        android:layout_width="142dp"
+        android:layout_height="97dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="52dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.942"
+        app:layout_constraintStart_toEndOf="@+id/ic_clasesCliente"
+        app:layout_constraintTop_toBottomOf="@+id/textView23"
+        app:srcCompat="@mipmap/ic_reservas_round" />
+
+    <TextView
+        android:id="@+id/tv_nombreGymMC"
+        style="@style/Widget.AppCompat.TextView"
+        android:layout_width="316dp"
+        android:layout_height="32dp"
+        android:layout_marginTop="28dp"
+        android:text="Sesiones"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:fontFamily="@font/aldrich"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_ClienteGymMC"
+        app:layout_constraintTop_toBottomOf="@+id/tv_ClienteGymMC" />
+
+    <TextView
+        android:id="@+id/tv_ClienteGymMC"
+        style="@style/Widget.AppCompat.TextView"
+        android:layout_width="310dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="52dp"
+        android:text="Sesiones"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:fontFamily="@font/aldrich"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView22"
+        app:layout_constraintTop_toBottomOf="@+id/textView22" />
+
+    <ImageView
+        android:id="@+id/ic_clasesCliente"
+        android:layout_width="133dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="12dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView23"
+        app:srcCompat="@mipmap/ic_meditacion" />
+
+    <TextView
+        android:id="@+id/textView24"
+        style="@style/Widget.AppCompat.TextView"
+        android:layout_width="86dp"
+        android:layout_height="26dp"
+        android:layout_marginTop="8dp"
+        android:text="Clases"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:fontFamily="@font/aldrich"
+        app:layout_constraintEnd_toEndOf="@+id/ic_clasesCliente"
+        app:layout_constraintHorizontal_bias="0.595"
+        app:layout_constraintStart_toStartOf="@+id/ic_clasesCliente"
+        app:layout_constraintTop_toBottomOf="@+id/ic_clasesCliente" />
+
+    <TextView
+        android:id="@+id/textView21"
+        style="@style/Widget.AppCompat.TextView"
+        android:layout_width="120dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="8dp"
+        android:text="Reservas "
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:fontFamily="@font/aldrich"
+        app:layout_constraintEnd_toEndOf="@+id/ic_historialCliente"
+        app:layout_constraintStart_toStartOf="@+id/ic_historialCliente"
+        app:layout_constraintTop_toBottomOf="@+id/ic_historialCliente" />
+
+    <TextView
+        android:id="@+id/textView23"
+        style="@style/Widget.AppCompat.TextView"
+        android:layout_width="111dp"
+        android:layout_height="27dp"
+        android:layout_marginTop="8dp"
+        android:text="Sesiones"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:fontFamily="@font/aldrich"
+        app:layout_constraintEnd_toEndOf="@+id/ic_SecionesCliente"
+        app:layout_constraintHorizontal_bias="0.518"
+        app:layout_constraintStart_toStartOf="@+id/ic_SecionesCliente"
+        app:layout_constraintTop_toBottomOf="@+id/ic_SecionesCliente" />
+
+    <ImageView
+        android:id="@+id/ic_SecionesCliente"
+        android:layout_width="138dp"
+        android:layout_height="89dp"
+        android:layout_marginTop="208dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView22"
+        app:srcCompat="@mipmap/ic_calendar" />
+
+    <TextView
+        android:id="@+id/textView22"
+        style="@style/Widget.AppCompat.TextView"
+        android:layout_width="301dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="48dp"
+        android:text="Modulo clientes"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/background_dark"
+        android:textSize="45sp"
+        app:fontFamily="@font/arizonia"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

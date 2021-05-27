@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:backgroundTint="@color/black"
+    tools:context=".MainActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="365dp"
+        android:layout_height="660dp"
+        android:background="@android:color/background_dark"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tv_center"
+            android:layout_width="135dp"
+            android:layout_height="51dp"
+            android:fontFamily="@font/adamina"
+            android:text="@string/center_fp"
+            android:textColor="@android:color/background_light"
+            android:textSize="36sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/ic_center_lp"
+            app:layout_constraintStart_toStartOf="@+id/ic_center_lp"
+            app:layout_constraintTop_toBottomOf="@+id/ic_center_lp"
+            app:layout_constraintVertical_bias="0.272" />
+
+        <ImageView
+            android:id="@+id/ic_students_list"
+            android:layout_width="292dp"
+            android:layout_height="277dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.356"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@mipmap/ic_logopanin_foreground" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="125dp"
+            android:layout_height="61dp"
+            android:fontFamily="@font/adamina"
+            android:text="@string/students_list"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="36sp"
+            app:layout_constraintEnd_toEndOf="@+id/ic_students_list"
+            app:layout_constraintHorizontal_bias="0.532"
+            app:layout_constraintStart_toStartOf="@+id/ic_students_list"
+            app:layout_constraintTop_toBottomOf="@+id/ic_students_list" />
+
+        <ImageView
+            android:id="@+id/ic_center_lp"
+            android:layout_width="211dp"
+            android:layout_height="191dp"
+            android:layout_marginTop="40dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5"
+            app:srcCompat="@mipmap/ic_center_round"
+            tools:srcCompat="@mipmap/ic_center_round" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

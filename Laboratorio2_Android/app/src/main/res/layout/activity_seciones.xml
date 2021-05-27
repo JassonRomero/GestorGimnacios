@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecionesActivity">
+
+
+    <TextView
+        android:id="@+id/tv_nombreCentroAdmi2"
+        style="@style/Widget.AppCompat.TextView"
+        android:layout_width="363dp"
+        android:layout_height="73dp"
+        android:layout_marginTop="44dp"
+        android:text="Sesiones agendadas"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/background_dark"
+        android:textSize="50sp"
+        app:fontFamily="@font/arizonia"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <DatePicker
+        android:id="@+id/datePicker1"
+        android:layout_width="253dp"
+        android:layout_height="139dp"
+        android:layout_marginTop="44dp"
+        android:calendarViewShown="false"
+        android:datePickerMode="spinner"
+        app:layout_constraintEnd_toStartOf="@+id/ic_play"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_nombreCentroAdmi2"
+        app:layout_constraintTop_toBottomOf="@+id/tv_nombreCentroAdmi2" />
+
+    <ImageView
+        android:id="@+id/ic_play"
+        android:layout_width="87dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="76dp"
+        android:layout_marginEnd="12dp"
+        app:layout_constraintEnd_toEndOf="@+id/tv_nombreCentroAdmi2"
+        app:layout_constraintTop_toBottomOf="@+id/tv_nombreCentroAdmi2"
+        app:srcCompat="@mipmap/ic_play" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/sesiones_list_recycler"
+        android:layout_width="312dp"
+        android:layout_height="336dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/datePicker1"
+        app:layout_constraintVertical_bias="0.071" />
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="409dp"
+        android:layout_height="1dp"
+        android:background="?android:attr/listDivider"
+        app:layout_constraintBottom_toTopOf="@+id/sesiones_list_recycler"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/datePicker1" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
